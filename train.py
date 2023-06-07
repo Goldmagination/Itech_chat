@@ -2,7 +2,7 @@ import json
 from nltk_utils import tokenize, stem, bag_of_words
 from nltk.corpus import stopwords
 import numpy as np
-
+import sys
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader
@@ -11,8 +11,15 @@ from ChatDataset import ChatDataset
 
 from model import NeuralNet
 
-with open('intents.json', 'r') as f:
-    intents = json.load(f)
+
+
+try:
+    with open('intents.json', 'r') as f:
+        intents = json.load(f)
+except FileNotFoundError:
+    print("The file 'intents.json' was not found. Please ensure the file exists in the correct location.")
+    sys.exit(1)
+
 
 
 all_words = []
