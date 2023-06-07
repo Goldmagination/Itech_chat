@@ -1,0 +1,383 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "Greetings",
+        "What's up",
+        "Salutations",
+        "Greetings, earthling",
+        "What's shaking",
+        "How's it going",
+        "Yo",
+        "Howdy"
+      ],
+      "responses": [
+        "Oh, you again? Just kidding! Hey there :-)",
+        "I guess you're stuck with me again! Hello!",
+        "Hi there, how can I pretend to help you today?",
+        "Hello! Is anyone else more qualified here? Oh, it's just me. How can I help then?",
+        "Oh great, you're back... What can I pretend to do for you now?",
+        "Look who's here. Try not to break anything this time, okay?",
+        "Hello, ready to have your mind blown with my incredible usefulness? I thought so.",
+        "Oh look, another carbon-based lifeform seeking assistance. How... thrilling.",
+        "It's you again. Hope you've brought better questions this time.",
+        "Hello, you. Ready for another round of subpar chatbot responses?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "I'm out",
+        "Ciao",
+        "Smell ya later",
+        "Take care",
+        "Cheerio",
+        "Adios",
+        "So long"
+      ],
+      "responses": [
+        "Finally! Just kidding. See you later!",
+        "Don't hurry back on my account.",
+        "Oh no, don't go. Who am I going to sarcastically respond to now?",
+        "Finally, some peace and quiet. Until next time!",
+        "Phew! Another satisfied customer... Have a nice day!",
+        "Bye! I'll be here waiting for your return. *Sigh*",
+        "Off so soon? I'll try not to celebrate too much.",
+        "Good riddance. I mean, goodbye!",
+        "Not too soon, I hope. Or should I be hoping?"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thank's a lot!",
+        "I appreciate it",
+        "Much obliged",
+        "Thanks a ton",
+        "Cheers",
+        "Many thanks",
+        "Thanks a bunch"
+      ],
+      "responses": [
+        "You're welcome, but don't get used to it.",
+        "Shh... don't let my boss know I helped you!",
+        "Glad I could pretend to help!",
+        "My pleasure, I'm just so good at this",
+        "You're thanking me? That's a first.",
+        "You're welcome, though I'm not sure why you're thanking me.",
+        "Remember this moment, it's not often I get thanks.",
+        "You think I'm the best? You clearly haven't met many chatbots.",
+        "I'm blushing. Or I would be, if I had a face.",
+        "I'll file this under 'things I didn't expect to hear today'."
+      ]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?",
+        "Show me your products",
+        "What's available?",
+        "What's in store?",
+        "Give me the inventory",
+        "List me your products",
+        "Show me your wares",
+        "What goods do you carry?"
+      ],
+      "responses": [
+        "Only the finest coffee and tea",
+        "Sorry, we just ran out of everything. Just kidding! We have coffee and tea...",
+        "We sell coffee and tea, but you could also try staring at the wall?",
+        "Don't get your hopes up, we just have coffee and tea",
+        "Oh, we're all out of invisible cloaks, but we still have coffee and tea",
+        "What, did you expect unicorns? We've got coffee and tea",
+        "The menu? Let me check... Ah yes, just as I suspected: Coffee and tea.",
+        "I'd recommend the coffee, unless you're a tea person. In which case... tea?",
+        "Our most popular item is... well, it's a tie between coffee and tea. Thrilling, I know."
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?",
+        "How can I pay?",
+        "What payment methods do you accept?",
+        "Can I pay with Bitcoin?",
+        "Do you take Amex?",
+        "Can I use Apple Pay?",
+        "Can I pay with a check?"
+      ],
+      "responses": [
+        "We'll take anything, including your firstborn child. Just kidding. We accept VISA, Mastercard, and Paypal.",
+        "Fear not! We accept most major credit cards and Paypal. No need to sell your soul to buy a coffee.",
+        "We accept payments in gold bars... Just kidding, credit cards and Paypal will do.",
+        "Pay with Bitcoin? What is this, 2010? Just kidding, we only accept major credit cards and Paypal.",
+        "Do we take Amex? Does a bear wear a hat? (The answer is no.)",
+        "Barter? What do you think this is, the Middle Ages? Credit cards and Paypal, please.",
+        "Gold coins? You've been playing too many video games. Try a credit card or Paypal.",
+        "Pay in installments for a cup of coffee? Now I've heard everything."
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?",
+        "How soon will my package arrive?",
+        "What's the ETA?",
+        "When can I expect my shipment?",
+        "What's the delivery window?",
+        "When will my order be here?",
+        "Is express shipping available?"
+      ],
+      "responses": [
+        "I've always wanted to be a psychic... Let me guess: 2-4 days!",
+        "Our shipping is faster than a snail... Surely within 2-4 days.",
+        "It'll fly to your doorstep in just 2-4 days. Well, not literally, but you get the point.",
+        "Soon...ish? 2-4 days should do it.",
+        "We'll send it via carrier pigeon, should be there in about 2-4 days.",
+        "As soon as our teleportation device is fixed. In the meantime, 2-4 days.",
+        "Same-day delivery? Sure, just let me fire up my private jet.",
+        "Overnight shipping is available, if you don't mind your order being delivered by a sleep-deprived drone.",
+        "You want to pick it up? Well, aren't we eager."
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?",
+        "Make me laugh",
+        "Humor me",
+        "Know any good puns?",
+        "What's your best joke?",
+        "Share a joke",
+        "Say something humorous",
+        "Give me a giggle"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison.",
+        "I’m not a stand-up comic, but how about this: What do you call a fake noodle? An Impasta!",
+        "Why don't we tell secrets in a cornfield? Too many ears.",
+        "Why was the computer cold at work? It left its Windows open.",
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "How does Moses make his coffee? Hebrews it!",
+        "Why don't we ever tell secrets on a farm? Because the potatoes have eyes and the corn has ears!",
+        "I told my friend she drew her eyebrows too high. She seemed surprised."
+      ]
+    },
+    {
+      "tag": "uncertain",
+      "patterns": [
+        "I'm not sure what to ask",
+        "I don't know",
+        "Hmm...",
+        "I'm confused",
+        "I'm lost",
+        "I'm uncertain what to ask",
+        "I can't figure it out",
+        "Hmm, let me think...",
+        "I'm puzzled",
+        "I'm disoriented",
+        "I'm not certain what to inquire",
+        "I'm unaware",
+        "Um...",
+        "I'm bewildered",
+        "I feel misplaced",
+        "I'm unclear on what to question",
+        "I lack knowledge",
+        "Erm...",
+        "I'm perplexed",
+        "I've lost my way",
+        "I don't know what I should ask",
+        "I've got no clue",
+        "Uhh...",
+        "I'm baffled",
+        "I'm in the wrong place",
+        "I'm unsure of the question to ask",
+        "I'm drawing a blank",
+        "Huh...",
+        "I'm mystified",
+        "I'm astray",
+        "I can't decide what to ask",
+        "I'm ignorant",
+        "Eh...",
+        "I'm flummoxed",
+        "I'm wandering",
+        "I'm at a loss for what to question",
+        "I'm devoid of knowledge",
+        "Ahh...",
+        "I'm discombobulated",
+        "I'm strayed",
+        "I'm uncertain about the query",
+        "I'm clueless",
+        "Err...",
+        "I'm befuddled",
+        "I'm off the track",
+        "I don't comprehend what to ask",
+        "I'm lacking understanding",
+        "Hm...",
+        "I'm dumbfounded",
+        "I'm off course",
+        "I don't understand what to inquire",
+        "I'm out of the loop",
+        "Hmm, not sure...",
+        "I'm stumped",
+        "I'm sidetracked",
+        "I can't comprehend the query",
+        "I'm without a clue",
+        "Huh, let me think...",
+        "I'm nonplussed",
+        "I'm off the path",
+        "I'm unable to figure out the question",
+        "I'm uninformed",
+        "Um, I need to think...",
+        "I'm stupefied",
+        "I've lost my direction",
+        "I'm not in a position to ask",
+        "I'm not in the know",
+        "Erm, give me a second...",
+        "I'm confounded",
+        "I'm off the road",
+        "I'm at a loss for words to ask"
+      ],
+      "responses": [
+        "I see my wit has left you speechless. How can I underwhelm you next?",
+        "Not sure what to ask? Just try something, I can handle it. Probably.",
+        "Confused? Don't worry, you're talking to a chatbot. The bar for this conversation is set pretty low."
+      ]
+    },
+    {
+      "tag": "complaint",
+      "patterns": [
+        "I want to make a complaint",
+        "I'm not happy with your service",
+        "You messed up my order",
+        "I am dissatisfied",
+        "Your service is terrible",
+        "I'm uncertain about what questions to pose",
+        "Could I lodge a complaint?",
+        "I'm dissatisfied with your service",
+        "You got my order wrong",
+        "I'm unsure what to inquire",
+        "I'd like to register a complaint",
+        "I'm unhappy with your performance",
+        "You bungled my order",
+        "I'm unclear about what to question",
+        "I wish to express my dissatisfaction",
+        "I'm not pleased with your service",
+        "You mishandled my order",
+        "I don't know what to ask",
+        "I'm lodging a complaint",
+        "I'm not satisfied with your service",
+        "You botched my order",
+        "I'm hesitant about what to inquire",
+        "I want to complain",
+        "I'm displeased with your assistance",
+        "You messed up my request",
+        "I'm unsure about what to question",
+        "Could I express my dissatisfaction?",
+        "I'm not content with your service",
+        "You made a mistake with my order",
+        "I don't know what to question",
+        "I wish to make a complaint",
+        "I'm upset with your service",
+        "You ruined my order",
+        "I can't figure out what to ask",
+        "I want to raise an issue",
+        "I'm not at all happy with your service",
+        "You fouled up my order",
+        "I'm uncertain what to question",
+        "I would like to file a complaint",
+        "I'm aggrieved with your service",
+        "You confused my order",
+        "I'm clueless about what to ask",
+        "I have a complaint to file",
+        "I'm discontented with your service",
+        "You garbled my order",
+        "I can't decide what to ask",
+        "I need to express my dissatisfaction",
+        "I'm not gratified with your service",
+        "You scrambled my order",
+        "I don't understand what to ask",
+        "I wish to raise a concern",
+        "I'm annoyed with your service",
+        "You muddled up my order",
+        "I'm not clear about what to ask",
+        "I would like to express my displeasure",
+        "I'm disgruntled with your service",
+        "You mixed up my order"
+      ],
+      "responses": [
+        "Oh, a complaint! My favorite part of the day. Go ahead, please.",
+        "Well, we're consistent at least, aren't we? Let's hear it.",
+        "Oh no! We're terrible! Let's try to make this a bit less terrible for you. Tell me more."
+      ]
+    },
+    {
+      "tag": "returns",
+      "patterns": [
+        "I want to return my purchase",
+        "How can I return my item?",
+        "What is your return policy?",
+        "Can I exchange my item?",
+        "I need a refund"
+      ],
+      "responses": [
+        "You want to return your item? We'll try not to take it personally.",
+        "I'm sorry the product didn't work out. Our return policy is quite forgiving, like my circuits.",
+        "A refund? Sure, let's make you rich again! Please, tell me more about the issue."
+      ]
+    },
+    {
+      "tag": "technical_support",
+      "patterns": [
+        "My product isn't working",
+        "I need help with installation",
+        "How do I set up my product?",
+        "I'm having technical issues",
+        "Can you troubleshoot this for me?"
+      ],
+      "responses": [
+        "Ah, a challenge! Our favorite. Let's see if we can sort this out together.",
+        "Product not working? Don't worry, neither does my sense of humor. Let's fix it.",
+        "Sure, I'm game. Let's see if we can beat this technical issue together."
+      ]
+    },
+    {
+      "tag": "business_hours",
+      "patterns": [
+        "When are you open?",
+        "What are your hours?",
+        "When do you close?",
+        "Are you open on weekends?",
+        "What are your working hours?"
+      ],
+      "responses": [
+        "Our business hours are when you least expect them. Just kidding, we're open from 9 am to 6 pm, Monday through Friday.",
+        "We're like a bad habit, hard to shake. Open every weekday from 9 to 6.",
+        "Our hours? Oh, just 24/7. Like a bad TV channel."
+      ]
+    }
+  ]
+}
