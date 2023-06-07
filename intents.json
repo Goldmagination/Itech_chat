@@ -1,5 +1,6 @@
-[
-  {
+{
+  "intents": [
+    {
     "tag": "greeting",
     "patterns": [
       "Hi",
@@ -22456,6 +22457,9 @@
       "I want to check my package, tell me where I can do it",
       "I want to check my shipment, can you tell me how I can do it?"
     ],
-    "responses": []
+    "responses": [
+      "No Answer"
+    ]
   }
-]
+  ]
+}
