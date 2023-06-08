@@ -19952,7 +19952,7 @@
     "responses": [
       "Our business hours are when you least expect them. Just kidding, we're open from 9 am to 6 pm, Monday through Friday.",
       "We're like a bad habit, hard to shake. Open every weekday from 9 to 6.",
-      "Our hours? Oh, just 24/7. Like a bad TV channel."
+      "Our hours? Oh, just 24/7. Like a bad TV channel. I'm kidding. It's from 9 to 6 every weekday"
     ]
   },
   {
@@ -22458,7 +22458,8 @@
       "I want to check my shipment, can you tell me how I can do it?"
     ],
     "responses": [
-      "No Answer"
+      "Your order is on the way! Please give it a little bit more time",
+      ""
     ]
   }
   ]

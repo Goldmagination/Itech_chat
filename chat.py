@@ -3,7 +3,7 @@ import json
 import torch
 from model import NeuralNet
 from nltk_utils import bag_of_words, tokenize
-
+from messages_to_db import insert_user_message
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -52,4 +52,5 @@ while True:
             if tag == intent["tag"]:
                 print(f"{bot_name}: {random.choice(intent['responses'])}")
     else:
+        #TODO:save in DB
         print(f"{bot_name}: I do not understand... Please ")
