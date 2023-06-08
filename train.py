@@ -108,7 +108,7 @@ for epoch in range(num_epochs):
         optimizer.step()
         
     if (epoch+1) % 100 == 0:
-        print (f'Epoch [{epoch+1}/{num_epochs}], Loss: {loss.item():.4f}')
+        print (f'Epoch [{epoch+1}/{num_epochs}], Loss: {loss.item():.15f}')
 
 data = {
     "model_state": model.state_dict(),

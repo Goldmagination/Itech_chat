@@ -20204,7 +20204,20 @@
       "I want to get informmation about receiving the newsletter",
       "I want to receive the newsletter, tell me how to do it"
     ],
-    "responses": []
+    "responses": [
+      "Feeling the need for some up-to-the-minute info? You can join the enlightened by subscribing to our newsletter. Just click the link: http://www.newsletter.com/subscribe.",
+      "Want to be part of the in-crowd? Subscribe to our newsletter. I promise, it's just a click away: http://www.newsletter.com/subscribe.",
+      "Craving some quality content? You're just a click away from our sublime newsletter subscription. Here's the link: http://www.newsletter.com/subscribe.",
+      "Seeking some fresh, hot-off-the-press content? One click is all that stands between you and our delightful newsletter. Click here: http://www.newsletter.com/subscribe.",
+      "Desire the latest buzz? Our newsletter is just a click away. Go ahead, join the enlightened: http://www.newsletter.com/subscribe.",
+      "Thirsty for knowledge? Click the following link, and our newsletter will quench your thirst: http://www.newsletter.com/subscribe.",
+      "Hungry for the latest news? Our newsletter is a click away from satisfying your craving. Follow this link: http://www.newsletter.com/subscribe.",
+      "Feeling a bit out of the loop? Catch up with the world by subscribing to our newsletter. Just click this link: http://www.newsletter.com/subscribe.",
+      "Need some stimulating reading? Our newsletter, full of fresh insights, is a mere click away. Find it here: http://www.newsletter.com/subscribe.",
+      "Want to fill your mind with the latest happenings? Just click this link, and our newsletter will do the rest: http://www.newsletter.com/subscribe.",
+      "Intrigued by current events? Our newsletter, ripe with updates, is just a click away. Here's the link: http://www.newsletter.com/subscribe.",
+      "Looking to be in the know? Click this link, and our newsletter will take care of the rest: http://www.newsletter.com/subscribe."
+  ]
   },
   {
     "tag": "orders",
