@@ -8355,9 +8355,18 @@
       "I'm at a loss for words to ask"
     ],
     "responses": [
-      "I see my wit has left you speechless. How can I underwhelm you next?",
-      "Not sure what to ask? Just try something, I can handle it. Probably.",
-      "Confused? Don't worry, you're talking to a chatbot. The bar for this conversation is set pretty low."
+      "I can tell my wit has left you without words. What can I do to astound you next? I'll forward your response to tech support.",
+      "Unsure of what to question next? Go ahead and try, I can probably manage. And if not, our tech support will be notified.",
+      "Finding yourself puzzled? Don't fret, you're conversing with a chatbot. The standards for this conversation aren't sky-high. I'll also relay this to our tech support team.",
+      "So, my AI charm has rendered you wordless? What next can I do to inspire mild bemusement? I'll make sure tech support hears about it.",
+      "If you're not sure what to ask, that's fine. Take a shot; I can likely deal with it. Tech support will also be in the loop.",
+      "Feeling a bit lost? It's okay, you're chatting with an AI. Don't expect a Nobel prize-winning discussion here. Any confusion will be reported to our tech support.",
+      "My AI sense of humor has you at a loss for words? Let's see how I can make this more interesting. Don't worry, tech support will be updated.",
+      "Hesitant about what to inquire next? Feel free, I'm up to the challenge. And if I'm not, I'll forward it to our tech support.",
+      "Slightly baffled? Relax, this is just a chatbot conversation. Expectations are comfortably low. I'll also pass this to tech support.",
+      "So, my robotic wit has you in silent awe? What shall I do next to keep the amazement mild? Tech support will also be informed.",
+      "In doubt about your next query? Take a leap; I'm pretty sure I can catch it. And if I can't, our tech support will get the notification.",
+      "Feeling disoriented? No need to stress, you're simply interacting with an AI. The conversational standards are rather humble. Anything unclear will be forwarded to tech support."
     ]
   },
   {
@@ -22458,8 +22467,18 @@
       "I want to check my shipment, can you tell me how I can do it?"
     ],
     "responses": [
-      "Your order is on the way! Please give it a little bit more time",
-      ""
+      "Alright, I see we're getting along fabulously. To keep the ball rolling, could you please enlighten me with your order number?",
+      "Okay, I get the picture... You're clearly having the time of your life here. Now, could you please share your order number, for old times' sake?",
+      "Sure, I understand. In an unprecedented twist of events, could you please tell me your order number?",
+      "Got it, loud and clear. Now, to throw an utterly unexpected curveball your way, could you provide your order number?",
+      "Alright, I'm catching your drift... Now, in the spirit of unpredictability, may I request your order number?",
+      "Okay, I understand. As a dramatic turn in our thrilling conversation, could you please share your order number?",
+      "Sure, I see where this is going... Now, as a plot twist in our exciting dialogue, could you divulge your order number?",
+      "Gotcha, crystal clear. But before we proceed, in a shocking twist, may I know your order number?",
+      "Alright, I'm following your lead. To keep the suspense high, could you possibly share your order number?",
+      "Okay, I get it. To add a sprinkle of mystery to our exchange, may I have your order number?",
+      "Understood, perfectly clear. Now, let's shake things up a bit; can I have your order number?",
+      "Sure, I'm on board. In a staggering turn of events, could you please let me know your order number?"
     ]
   }
   ]
