@@ -53,4 +53,5 @@ while True:
                 print(f"{bot_name}: {random.choice(intent['responses'])}")
     else:
         #TODO:save in DB
-        print(f"{bot_name}: I do not understand... Please ")
+        insert_user_message("User1", sentence, "Couldnt solve this")
+        print(f"{bot_name}: {random.choice(intent['responses'])} ")
